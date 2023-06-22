@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_1"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="식단 메모하기"/>
+    <item
+        android:id="@+id/menu_2"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="혈당 체크하기"/>
+    <item
+        android:id="@+id/menu_3"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="요리법 검색하기"/>
+    <item
+        android:id="@+id/menu_4"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="119 전화하기"/>
+
+</menu>
